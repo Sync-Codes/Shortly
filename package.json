@@ -6,7 +6,6 @@
   "scripts": {
     "start": "node index.js",
     "serve": "npm run vserve --prefix urlify",
-    "vserve": "vue-cli-service serve",
     "build": "npm run vbuild --prefix urlify",
     "dev": "concurrently \"npm run start\" \"npm run serve\""
   },
