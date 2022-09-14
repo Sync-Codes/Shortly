@@ -1,5 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://sync0666:2065123@ryubot.k6y2k.mongodb.net/?retryWrites=true&w=majority",
   "baseUrl": "http://localhost:5000"
 }
 
