@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js",
+    "start": "node index.js",
     "serve": "npm run vserve --prefix urlify",
     "vserve": "vue-cli-service serve",
     "build": "npm run vbuild --prefix urlify",
